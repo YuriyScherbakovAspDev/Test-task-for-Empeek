@@ -1,0 +1,64 @@
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\csc.exe
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\vbc.exe
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\VBCSCompiler.exe
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EmpeekTestTask.dll.config
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EmpeekTestTask.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EmpeekTestTask.pdb
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.SqlServer.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\Newtonsoft.Json.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\System.Net.Http.Formatting.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.WebHost.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.SqlServer.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\Newtonsoft.Json.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\System.Net.Http.Formatting.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.WebHost.xml
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\obj\Debug\EmpeekTestTask.csprojResolveAssemblyReference.cache
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\obj\Debug\EmpeekTestTask.dll
+C:\Empeek\EmpeekTestTask\EmpeekTestTask\obj\Debug\EmpeekTestTask.pdb
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\csc.exe
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\System.Collections.Immutable.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\System.Reflection.Metadata.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\vbc.exe
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\VBCSCompiler.exe
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\roslyn\VBCSCompiler.exe.config
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EmpeekTestTask.dll.config
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EmpeekTestTask.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EmpeekTestTask.pdb
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.SqlServer.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\Newtonsoft.Json.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\System.Net.Http.Formatting.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.WebHost.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\EntityFramework.SqlServer.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\Newtonsoft.Json.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\System.Net.Http.Formatting.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\bin\System.Web.Http.WebHost.xml
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\obj\Debug\EmpeekTestTask.csprojResolveAssemblyReference.cache
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\obj\Debug\EmpeekTestTask.dll
+E:\Новая папка\EmpeekTestTask\EmpeekTestTask\obj\Debug\EmpeekTestTask.pdb

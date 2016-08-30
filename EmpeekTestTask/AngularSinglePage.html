@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+    <title></title>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+   
+</head>
+<body>
+    <div id="main">
+        <div ng-app="DiscInspector" ng-controller="DiscInspectorInitController">
+            <table cellspacing="0" cellpadding="0" id="stats">
+                <tr><th>Less 10Mb</th><th>10Mb-50Mb</th><th>More 100Mb</th></tr>
+                <tr><td>{{DiscInfo.LessThan10Mb}}</td><td>{{DiscInfo.Between10MbAnd50Mb}}</td><td>{{DiscInfo.MoreThan100Mb}}</td></tr>
+            </table>
+
+            <p id="path"><b>Current path:</b> {{DiscInfo.Path}}</p>
+            <div id="info">
+                <ul>
+                    <li style="list-style-type:none" ng-show="DiscInfo.ListOfDirectoriesString.length == 0">
+                        <a href ng-click="getUpper(DiscInfo.Path);">..</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li ng-repeat="path in DiscInfo.ListOfDirectoriesString"><a href ng-click="getDeeper(path);">{{path}}</a></li>
+                </ul>
+                <ul>
+                    <li ng-repeat="path in DiscInfo.ListOfDirectories"><a href ng-click="getDeeper(path.FullPath);">{{path.OriginalPath}}</a></li>
+                </ul>
+                <ul>
+                    <li ng-repeat="path in DiscInfo.ListOfFiles">{{path.OriginalPath}}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
